@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Rock Paper Scissors</h1>
+    <button
+      onclick="gameOutcome('rock', getComputerChoice())"
+      class="playerchoices"
+    >
+      <img src="img/rock-emoji.png" alt="" />
+    </button>
+    <button
+      onclick="gameOutcome('paper', getComputerChoice()) "
+      class="playerchoices"
+    >
+      <img src="img/paper-emoji.png" alt="" />
+    </button>
+    <button
+      onclick="gameOutcome('scissors', getComputerChoice())"
+      class="playerchoices"
+    >
+      <img src="img/scissors-emoji.png" alt="" />
+    </button>
+    <p class="js-display-outcome dissapear outcome"></p>
+    <p class="js-display-choices dissapear"></p>
+    <p class="js-display-score"></p>
+    <div class="extra-functionality">
+      <button class="reset" onclick="resetScoreTracker()">Reset Score</button>
+      <button class="auto-play" onclick="autoPlay()">Auto Play</button>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
