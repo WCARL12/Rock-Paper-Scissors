@@ -6,7 +6,7 @@
   <li>Successfully created the game</li>
 </ul>
 
-<p>View Website: <a href=''>Click Here</a></p>
+<p>View Website:</p>
 
 <h1>Website Preview:</h1>
 
