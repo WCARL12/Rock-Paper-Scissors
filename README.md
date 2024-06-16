@@ -6,7 +6,7 @@
   <li>Successfully created the game</li>
 </ul>
 
-<p>View Website:</p>
+<p>View Website: <a href='https://wcarl12.github.io/Rock-Paper-Scissors/'>Click here</a></p>
 
 <h1>Website Preview:</h1>
 
