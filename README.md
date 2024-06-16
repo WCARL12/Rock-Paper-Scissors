@@ -10,4 +10,4 @@
 
 <h1>Website Preview:</h1>
 
-![image](https://github.com/WCARL12/Rock-Paper-Scissors/assets/139624156/779d4ac7-617c-4488-9d3b-602b189a9bd1)
+![image](https://github.com/WCARL12/Rock-Paper-Scissors/assets/139624156/a5f04434-2813-44ad-b0b9-4dfdfaf2b991)
